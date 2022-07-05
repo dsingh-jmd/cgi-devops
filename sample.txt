@@ -1,7 +1,6 @@
 hello this is a sample file
-
 this is first commit from dev-1 at Mumbai Branch
 this is dev-1 from main
-
 this is from branch1
+this is first commit from dev-2 from HYD
 
